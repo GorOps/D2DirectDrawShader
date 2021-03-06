@@ -11,4 +11,4 @@
 1. PoD Launcher Setup:
    1. Run the PoD Launcher.exe and set the following options: 
    
-   ![Launcher](https://cdn.discordapp.com/attachments/775529238014066688/817790457433292840/unknown.png). 
+   ![Launcher](https://cdn.discordapp.com/attachments/817808360388165672/817812344037048340/D2-DirectDraw.png). 
