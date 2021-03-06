@@ -1,5 +1,5 @@
 # D2DirectDrawShader
-##For Path of Diablo and other D2 mods
+## For Path of Diablo and other D2 mods
 
 ### How it looks on a 4k monitor: https://imgur.com/a/cHzA7hb
 
