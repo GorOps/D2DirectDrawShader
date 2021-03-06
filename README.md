@@ -1,6 +1,8 @@
 # D2DirectDrawShader
 ##For Path of Diablo and other D2 mods
 
+### How it looks on a 4k monitor: https://imgur.com/a/cHzA7hb
+
 1. Go to the PoD folder
 1. Create a Shaders folder if it doesnt exist
 1. put the glsl file in ur shaders folder
