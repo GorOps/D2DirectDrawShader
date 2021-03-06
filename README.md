@@ -3,8 +3,7 @@
 
 ### How it looks on a 4k monitor: https://imgur.com/a/cHzA7hb
 
-1. PoD Launcher Setup:
-   1. Run the PoD Launcher.exe and set the following options: 
+1. PoD Launcher Setup: Run the PoD Launcher.exe and set the following options: 
    ![Launcher](https://cdn.discordapp.com/attachments/817808360388165672/817812344037048340/D2-DirectDraw.png). 
 1. Go to the PoD folder (Right click PoD launcher -> Open File Location)
 1. Create a Shaders folder if it doesnt exist
