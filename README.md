@@ -5,7 +5,7 @@
 
 1. PoD Launcher Setup: Run the PoD Launcher.exe and set the following options: 
 
-   ![Launcher](https://cdn.discordapp.com/attachments/817808360388165672/817812344037048340/D2-DirectDraw.png). 
+   ![Launcher](https://cdn.discordapp.com/attachments/762837000410759209/818183738348929044/D2-DirectDraw2.png). 
 1. Go to the PoD folder (Right click PoD launcher -> Open File Location)
 1. Create a Shaders folder if it doesnt exist
 1. Put the glsl file in the Shaders folder
